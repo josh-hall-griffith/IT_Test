@@ -4,4 +4,7 @@
 *.png filter=lfs diff=lfs merge=lfs
 *.fbx filter=lfs diff=lfs merge=lfs
 *.obj filter=lfs diff=lfs merge=lfs
+*.PNG filter=lfs diff=lfs merge=lfs
+*.FBX filter=lfs diff=lfs merge=lfs
+*.OBJ filter=lfs diff=lfs merge=lfs
 
