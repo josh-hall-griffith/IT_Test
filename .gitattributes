@@ -7,4 +7,5 @@
 *.PNG filter=lfs diff=lfs merge=lfs
 *.FBX filter=lfs diff=lfs merge=lfs
 *.OBJ filter=lfs diff=lfs merge=lfs
+*.uasset filter=lfs diff=lfs merge=lfs
 
