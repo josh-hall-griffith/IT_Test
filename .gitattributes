@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.psd filter=lfs diff=lfs merge=lfs
+*.png filter=lfs diff=lfs merge=lfs
+*.fbx filter=lfs diff=lfs merge=lfs
+*.obj filter=lfs diff=lfs merge=lfs
+
